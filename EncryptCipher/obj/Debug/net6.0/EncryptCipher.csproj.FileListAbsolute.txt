@@ -1,0 +1,15 @@
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\EncryptCipher.exe
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\EncryptCipher.deps.json
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\EncryptCipher.runtimeconfig.json
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\EncryptCipher.dll
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\ref\EncryptCipher.dll
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\bin\Debug\net6.0\EncryptCipher.pdb
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.csproj.AssemblyReference.cache
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.AssemblyInfoInputs.cache
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.AssemblyInfo.cs
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.csproj.CoreCompileInputs.cache
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.dll
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\ref\EncryptCipher.dll
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.pdb
+C:\Users\perma\Documents\code\rider\csharp_caeser_cipher\EncryptCipher\obj\Debug\net6.0\EncryptCipher.genruntimeconfig.cache
