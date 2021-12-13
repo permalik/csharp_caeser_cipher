@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCypher\\EncryptCypher.csproj",
-      "projectName": "EncryptCypher",
-      "projectPath": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCypher\\EncryptCypher.csproj",
+      "projectUniqueName": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCipher\\EncryptCipher.csproj",
+      "projectName": "EncryptCipher",
+      "projectPath": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCipher\\EncryptCipher.csproj",
       "packagesPath": "C:\\Users\\perma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCypher\\obj\\",
+      "outputPath": "C:\\Users\\perma\\Documents\\code\\rider\\csharp_caeser_cypher\\EncryptCipher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\perma\\AppData\\Roaming\\NuGet\\NuGet.Config",
