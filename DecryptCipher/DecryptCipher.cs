@@ -26,8 +26,10 @@ public class DecryptCipher
     // Driver
     public static void Main(String[] args)
     {
-        String text = "FFFFF";
-        int shift = 5;
+        Console.WriteLine("Input text to decrypt: ");
+        String text = Console.ReadLine();
+        Console.WriteLine("Input shift for decryption: ");
+        int shift = Int32.Parse(Console.ReadLine());
         Console.WriteLine("Text: " + text);
         Console.WriteLine("Shift: " + shift);
         Console.WriteLine("Cipher: " + Decrypt(text, shift));
